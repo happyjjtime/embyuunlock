@@ -1,4 +1,4 @@
-# EmbyUnlocked
+# EmbyUunlock
 
 ## Introduction
 
